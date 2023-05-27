@@ -3,15 +3,15 @@
 To write a C# program to reverse a number using recursive function.
 
 ## ALGORITHM:
-### Step1:
+### Step 1:
 Create a function for reversing.
-### Step2:
+### Step 2:
 Get the number from the user.
-### Step3:
+### Step 3:
 In the function find reminder of the number and multiply it by 10 and add the reverse number.
-### Step4:
+### Step 4:
 Recursively call this function to get the reversed number.
-### Step5:
+### Step 5:
 Print the reversed number.
 
 ## PROGRAM:
