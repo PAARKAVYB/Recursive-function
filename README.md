@@ -10,7 +10,7 @@ Get the number from the user.
 ### Step3:
 In the function find reminder of the number and multiply it by 10 and add the reverse number.
 ### Step4:
-Recusively call this function to get the reversed number.
+Recursively call this function to get the reversed number.
 ### Step5:
 Print the reversed number.
 
